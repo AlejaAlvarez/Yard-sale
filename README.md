@@ -1,2 +1,2 @@
 # Yard-sale
-Aplicación para el curso practico de frontend-developer
+Proyecto maquetado con html y css, y funcionalidad creada con javaScript. 
